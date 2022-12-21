@@ -1,4 +1,4 @@
-### Salve Salve Devers 👋
+### Salve Salve Devers
 
 Um pouco sobre mim:
 - Marcelo
@@ -27,14 +27,16 @@ Linguagens que eu quero aprender:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50"/>
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/Y0oda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciel404&layout=compact&langs_count=7&theme=dark"/></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciel404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Marciel404">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciel404&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marciel404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
