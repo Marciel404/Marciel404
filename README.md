@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 - Marcelo
 - 18 anos
-- Criador e dono do <a href="www.github.com/MarkuusBot/MarkuusBot">MarkuusBot</a>
+- Criador e dono do <a href="https://www.github.com/MarkuusBot/MarkuusBot">MarkuusBot</a>
 
 ##
 
