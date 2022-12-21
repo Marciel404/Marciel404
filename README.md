@@ -11,13 +11,17 @@ Skills:
 - Python (80%)
 - Java (5%)
 - Kotlin (6%)
+- Lua (1%)
 
 ##
 
 Linguagens que eu quero aprender:
 
 - JavaScript
-
+- TypeScript
+- Go
+- C#
+- Elixer
 
 ##
 
