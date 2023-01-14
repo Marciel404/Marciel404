@@ -25,7 +25,7 @@ Linguagens que eu quero aprender:
 ##
 
 <div style="display: inline_block"><br>
-  <img align="left" src="https://cdn.discordapp.com/avatars/485801281621852175/63a336f5d4193598712aa7075912bd94.png?size=1024" height="50" width="50">
+  <img align="left" src="https://cdn.discordapp.com/attachments/1046128393197989979/1063885189786378250/euu.jpg?size=1024" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" width="50"/>
