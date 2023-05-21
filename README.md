@@ -8,16 +8,16 @@ Um pouco sobre mim:
 ##
 
 Skills:
-- Python (80%)
-- Java (5%)
-- Kotlin (6%)
-- Lua (1%)
+- Python
+- Java
+- Kotlin
+- Lua
+- JavaScript
 
 ##
 
 Linguagens que eu quero aprender:
 
-- JavaScript
 - TypeScript
 - Go
 - C#
