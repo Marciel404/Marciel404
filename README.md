@@ -11,14 +11,14 @@ Skills:
 - Python
 - Java
 - Kotlin
-- Lua
 - JavaScript
-
+- TypeScript
+- 
 ##
 
 Linguagens que eu quero aprender:
 
-- TypeScript
+- Lua
 - Go
 - C#
 
