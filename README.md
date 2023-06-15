@@ -13,7 +13,7 @@ Skills:
 - Kotlin
 - JavaScript
 - TypeScript
-- 
+
 ##
 
 Linguagens que eu quero aprender:
