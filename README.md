@@ -1,7 +1,6 @@
 ### Salve Salve Devers👋👋
 
 Um pouco sobre mim:
-- Marcelo
 - 19 anos
 - Criador e dono do <a href="https://www.github.com/MarkuusBot/MarkuusBot">MarkuusBot</a>
 
